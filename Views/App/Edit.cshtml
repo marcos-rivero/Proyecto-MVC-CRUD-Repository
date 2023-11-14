@@ -1,0 +1,26 @@
+@model PeliculaViewModel
+@{
+	ViewBag.Title = "Editar Peliculas";
+}
+
+<h2>Aqui podras editar tus Peliculas</h2>
+
+<form method="Post">
+	<div class="form-group">
+		<label asp-for="Nombre">Nombre de la Pelicula</label>
+		<br/>
+		<input asp-for="Nombre" type="text" class="form-control"><br/>
+		<span asp-validation-for="Nombre" class="text-danger"></span>
+		<br/>
+		<label asp-for="Genero">Genero de la Pelicula</label>	
+		<br/>
+		<input asp-for="Genero" type="text" class="form-control"><br/>
+		<span asp-validation-for="Genero" class="text-danger"></span>
+		<br/>
+		<input type="submit" class="btn btn-primary">
+		<a asp-controller="App" asp-action="Index" class="btn btn-secondary">Cancelar</a>
+	</div>
+</form>
+<div>
+	<a href="#">Ir atras</a>
+</div>

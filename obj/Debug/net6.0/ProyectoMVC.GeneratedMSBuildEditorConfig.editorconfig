@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoMVC
+build_property.RootNamespace = ProyectoMVC
+build_property.ProjectDir = C:\Users\UNSTA\Downloads\Proyecto-MVC-CRUD-main\Proyecto-MVC-CRUD-main\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\UNSTA\Downloads\Proyecto-MVC-CRUD-main\Proyecto-MVC-CRUD-main
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Views/App/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Views/App/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Views/App/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Views/App/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Views/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Views/Shared/_Botones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb3RvbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/Downloads/Proyecto-MVC-CRUD-main/Proyecto-MVC-CRUD-main/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
